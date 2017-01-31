@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hall of Autism</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+  </head>
+  <body>
+    <div class="w3-panel w3-pink w3-center">
+      <h1 class="w3-opacity"><b>Doc's Hall of Autism</b></h1>
+    </div>
+    <div class="w3-container w3-center">
+      <ul class="w3-ul w3-card-4">
+        <li class="w3-padding-16"> <img src="http://cdn.akamai.steamstatic.com/steamcommunity/public/images/avatars/08/08c4609780ce0507dd06c19fca32cebb9dbbc55f_full.jpg"
+            class="w3-left w3-circle" style="width:60px"> <span class="w3-xlarge">Sergio</span><br>
+          <span>"I only go in dry."</span> </li>
+      </ul>
+    </div>
+  </body>
+</html>

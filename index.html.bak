@@ -2,6 +2,8 @@
 <html lang="en">
   <head>
     <meta content="text/html; charset=utf-8" http-equiv="content-type">
+    <link href="CAC-Champagne/web%20fonts/cacchampagne_regular_macroman/stylesheet.css"
+      type="text/css" rel="stylesheet">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, shrink-to-fit=no, initial-scale=1">
     <meta name="description" content="">
@@ -27,11 +29,9 @@
           <li> <a href="/mirage/">Mirage</a> </li>
           <li> <a href="/train/">Train</a> </li>
           <li>
-            <hr style="color: white; border-style: solid;">
-            <p><br>
-            </p>
-          </li>
+            <hr style="color: white; border-style: solid;"> </li>
           <li> <a href="/nadexhair/">Grenade Crosshair</a> </li>
+          <li> <a href="fuck.html">Hall of Autism</a></li>
         </ul>
       </div>
       <!-- /#sidebar-wrapper -->
@@ -47,14 +47,13 @@
                 for new and experienced players, the Details of the card, the
                 position are generally known, and the improvement of the General
                 стратагем.</div>
-              <div class="panel panel-default"><img src="http://nades4retard.men/tard2.jpg"
-                  class="img-rounded" alt="sergio" height="236" width="304"></div>
-              <a href="#menu-toggle" class="btn btn-default" id="menu-toggle">Toggle
-                Menu</a> </div>
+            </div>
           </div>
-        </div>
+          <a href="#menu-toggle" class="btn btn-default" id="menu-toggle">Toggle
+            Menu</a> </div>
       </div>
-      <!-- /#page-content-wrapper --> </div>
+    </div>
+    <!-- /#page-content-wrapper -->
     <!-- /#wrapper -->
     <!-- jQuery -->
     <script src="js/jquery.js"></script>
