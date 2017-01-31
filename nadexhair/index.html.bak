@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta content="text/html; charset=windows-1252" http-equiv="content-type">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+    <script>
+function goBack() {
+    window.history.back()
+}
+</script> </head>
+  <body>
+    <div class="w3-container w3-teal w3-padding-12">
+      <h1>Grenade Line Up Crosshair</h1>
+    </div>
+    <hr>
+    <div class="w3-card-4">
+      <header class="w3-container w3-blue">
+        <h1>Paste to console</h1>
+      </header>
+      <div class="w3-container">
+        <p>alias "nadetoggleon" "cl_crosshairalpha 100; cl_crosshairdot 1;
+          cl_crosshairgap 4; cl_crosshairsize 255; cl_crosshairstyle 4;
+          cl_crosshairthickness 1; cl_fixedcrosshairgap 4;
+          cl_crosshair_drawoutline 1; bind g nadetoggleoff"<br>
+          <br>
+          alias "nadetoggleoff" "cl_crosshairalpha 200; cl_crosshairdot 0;
+          cl_crosshairgap 2; cl_crosshairsize 4; cl_crosshairstyle 4;
+          cl_crosshairthickness 1.5; cl_fixedcrosshairgap 0;
+          cl_crosshair_drawoutline 0; bind g nadetoggleon"</p>
+      </div>
+      <footer class="w3-container w3-blue">
+        <h5>Note: replace the crosshair settings in the nadetoggleoff alias with
+          your own so as your crosshair is restored properly on keypress. The
+          default key for this script is G. This can also be changed.</h5>
+      </footer>
+    </div>
+    <div class="w3-container w3-padding-24">
+      <h3><br>
+      </h3>
+      <br>
+    </div>
+    <footer class="w3-container w3-teal w3-padding-32">
+      <p>Made by Doc.Z - Got a request or some shit?</p>
+      <p>Contact information: <a href="http://steamcommunity.com/id/therealdocz/">My
+          Steam</a>.</p>
+      <button onclick="goBack()">Go Back</button> </footer>
+  </body>
+</html>
