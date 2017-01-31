@@ -29,30 +29,35 @@ function goBack() {
             <td style="background-color: rgba(255, 140, 0, 0.45);"><a target="_blank"
                 href="https://www.youtube.com/embed/FOHiUXldo-0?showinfo=0">A Door
                 from Long</a></td>
+            <td style="width: 50%; background-color: rgba(255, 140, 0, 0.45);"><a
+                target="_blank" href="https://www.youtube.com/embed/Rqcm3UENcGk?showinfo=0">B
+                site right side</a></td>
+          </tr>
+          <tr>
+            <td style="background-color: rgba(255, 140, 0, 0.45); height: 23px;"><a
+                target="_blank" href="https://www.youtube.com/embed/Oxx-AUnifDw?showinfo=0">A
+                Balcony Smoke from Long</a></td>
             <td style="width: 50%; background-color: rgba(255, 140, 0, 0.45);"><br>
             </td>
           </tr>
           <tr>
-            <td style="background-color: rgba(255, 140, 0, 0.45); height: 23px;"><br>
-            </td>
+            <td style="background-color: rgba(255, 140, 0, 0.45);"><a target="_blank"
+                href="http://sothatwemaybefree.com/map/de_cbble/Smoke/211/gsg-%28front%29-from-a-long">A
+                Truck (left side)</a></td>
             <td style="width: 50%; background-color: rgba(255, 140, 0, 0.45);"><br>
             </td>
           </tr>
           <tr>
-            <td style="background-color: rgba(255, 140, 0, 0.45);"><br>
-            </td>
+            <td style="background-color: rgba(255, 140, 0, 0.45);"><a target="_blank"
+                href="http://sothatwemaybefree.com/map/de_cbble/Smoke/212/gsg-%28site-side%29-from-a-long">A
+                Truck (right side)</a></td>
             <td style="width: 50%; background-color: rgba(255, 140, 0, 0.45);"><br>
             </td>
           </tr>
           <tr>
-            <td style="background-color: rgba(255, 140, 0, 0.45);"><br>
-            </td>
-            <td style="width: 50%; background-color: rgba(255, 140, 0, 0.45);"><br>
-            </td>
-          </tr>
-          <tr>
-            <td style="background-color: rgba(255, 140, 0, 0.45);"><br>
-            </td>
+            <td style="background-color: rgba(255, 140, 0, 0.45);"><a target="_blank"
+                href="https://www.youtube.com/embed/bL9fmanYT_w?showinfo=0">B
+                Site left side</a></td>
             <td style="background-color: rgba(255, 140, 0, 0.45);"><br>
             </td>
           </tr>
