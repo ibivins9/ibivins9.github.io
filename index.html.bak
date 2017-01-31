@@ -17,7 +17,8 @@
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>    <![endif]-->
   </head>
   <body>
-    <div id="wrapper"> <!-- Sidebar -->
+    <div id="wrapper">
+      <!-- Sidebar -->
       <div id="sidebar-wrapper">
         <ul class="sidebar-nav">
           <li class="sidebar-brand"> <a href="#"> Nades4Retard.men </a> </li>
@@ -25,6 +26,12 @@
           <li> <a href="/cbble/">Cobble</a> </li>
           <li> <a href="/mirage/">Mirage</a> </li>
           <li> <a href="/train/">Train</a> </li>
+          <li>
+            <hr style="color: white; border-style: solid;">
+            <p><br>
+            </p>
+          </li>
+          <li> <a href="/nadexhair/">Grenade Crosshair</a> </li>
         </ul>
       </div>
       <!-- /#sidebar-wrapper -->
@@ -40,8 +47,7 @@
                 for new and experienced players, the Details of the card, the
                 position are generally known, and the improvement of the General
                 стратагем.</div>
-              <div class="panel panel-default"><img src="http://nades4retard.men/tard2.jpg"
-
+              <div class="panel panel-default"><img src="http://nades4retard.men/tard2.jpg"
                   class="img-rounded" alt="sergio" height="236" width="304"></div>
               <a href="#menu-toggle" class="btn btn-default" id="menu-toggle">Toggle
                 Menu</a> </div>
