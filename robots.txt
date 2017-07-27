@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+Disallow: /CAC-Champagne
+Disallow: /css
+Disallow: /fonts
+Disallow: /js
+Disallow: /ref
+Disallow: /TEMPLATES
+
+Sitemap: http://nades4retard.men/sitemap.xml
