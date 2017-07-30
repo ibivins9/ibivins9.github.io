@@ -1,0 +1,10 @@
+<button onclick="myFunction('FUNCNAME')" class="w3-btn w3-block w3-black w3-left-align">XHAIRNAME</button>
+<div id="FUNCNAME" class="w3-container w3-hide">
+  <h4>XHAIR NAME</h4>
+    <img src="PIC" alt="Xhair" class="w3-image">
+  <blockquote class="w3-panel w3-leftbar w3-light-grey">
+    <p class="w3-medium"></p>
+    
+  </blockquote>
+
+</div>
