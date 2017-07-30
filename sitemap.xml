@@ -8,80 +8,110 @@
 
 <url>
   <loc>http://nades4retard.men/</loc>
-  <lastmod>2017-07-27T16:06:40+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <lastmod>2017-07-30T20:30:51+00:00</lastmod>
+  <changefreq>weekly</changefreq>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>http://nades4retard.men/cache/</loc>
-  <lastmod>2017-07-27T16:06:40+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <lastmod>2017-07-30T20:30:51+00:00</lastmod>
+  <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://nades4retard.men/cbble/</loc>
-  <lastmod>2017-07-27T16:06:40+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <lastmod>2017-07-30T20:30:51+00:00</lastmod>
+  <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://nades4retard.men/mirage/</loc>
-  <lastmod>2017-07-27T16:06:40+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <lastmod>2017-07-30T20:30:51+00:00</lastmod>
+  <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://nades4retard.men/train/</loc>
-  <lastmod>2017-07-27T16:06:40+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <lastmod>2017-07-30T20:30:51+00:00</lastmod>
+  <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://nades4retard.men/canals/</loc>
-  <lastmod>2017-07-27T16:06:40+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <lastmod>2017-07-30T20:30:51+00:00</lastmod>
+  <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://nades4retard.men/nadexhair/</loc>
-  <lastmod>2017-07-27T16:06:40+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <lastmod>2017-07-30T20:30:51+00:00</lastmod>
+  <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://nades4retard.men/jumpthrowbind/</loc>
-  <lastmod>2017-07-27T16:06:40+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <lastmod>2017-07-30T20:30:51+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://nades4retard.men/crosshairs/</loc>
+  <lastmod>2017-07-30T20:30:51+00:00</lastmod>
+  <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://nades4retard.men/fuck.html</loc>
-  <lastmod>2017-07-27T16:06:40+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <lastmod>2017-07-30T20:30:51+00:00</lastmod>
+  <changefreq>weekly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://nades4retard.men/cache/index.html</loc>
-  <lastmod>2017-07-27T16:06:40+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <lastmod>2017-07-30T20:30:51+00:00</lastmod>
+  <changefreq>weekly</changefreq>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>http://nades4retard.men/cache/ctnades.html</loc>
-  <lastmod>2017-07-27T16:06:40+00:00</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://nades4retard.men/cache/heavenpopflash.html</loc>
-  <lastmod>2017-07-27T16:06:40+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <lastmod>2017-07-30T20:30:51+00:00</lastmod>
+  <changefreq>weekly</changefreq>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>http://nades4retard.men/cache/whiteboxfromtspawn.html</loc>
-  <lastmod>2017-07-27T16:06:40+00:00</lastmod>
-  <changefreq>monthly</changefreq>
+  <lastmod>2017-07-30T20:30:51+00:00</lastmod>
+  <changefreq>weekly</changefreq>
   <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://nades4retard.men/cbble/index.html</loc>
+  <lastmod>2017-07-30T20:30:51+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://nades4retard.men/cbble/ctnades.html</loc>
+  <lastmod>2017-07-30T20:30:51+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://nades4retard.men/mirage/index.html</loc>
+  <lastmod>2017-07-30T20:30:51+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://nades4retard.men/mirage/ctnades.html</loc>
+  <lastmod>2017-07-30T20:30:51+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://nades4retard.men/cache/heavenpopflash.html</loc>
+  <lastmod>2017-07-30T20:30:51+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.51</priority>
 </url>
 </urlset>
