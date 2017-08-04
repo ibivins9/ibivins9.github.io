@@ -14,6 +14,9 @@ body {
     background-color: white;
 }
 </style>
+<style>
+.mySlides {display:none;}
+</style>
       <title>Nade Xhair</title>
   </head>
   <body>
@@ -21,27 +24,46 @@ body {
       <h1>Grenade Line Up Crosshair</h1>
     </div>
     <hr>
-    <div class="w3-card-4">
+<div class="w3-row-padding">
+    <div class="w3-card-4 w3-third">
       <header class="w3-container w3-blue">
-        <h1>Paste to console</h1>
+        <h3>Line up grenades easy!</h3>
       </header>
-      <div class="w3-container">
-        <p>alias "nadetoggleon" "cl_crosshairalpha 100; cl_crosshairdot 1;
-          cl_crosshairgap 4; cl_crosshairsize 255; cl_crosshairstyle 4;
-          cl_crosshairthickness 1; cl_fixedcrosshairgap 4;
-          cl_crosshair_drawoutline 1; bind g nadetoggleoff"<br>
-          <br>
-          alias "nadetoggleoff" "cl_crosshairalpha 200; cl_crosshairdot 0;
-          cl_crosshairgap 2; cl_crosshairsize 4; cl_crosshairstyle 4;
-          cl_crosshairthickness 1.5; cl_fixedcrosshairgap 0;
-          cl_crosshair_drawoutline 0; bind g nadetoggleon"</p>
-      </div>
-      <footer class="w3-container w3-blue">
-        <h5>Note: replace the crosshair settings in the nadetoggleoff alias with
-          your own so as your crosshair is restored properly on keypress. The
-          default key for this script is G. This can also be changed.</h5>
-      </footer>
+<div class="w3-panel w3-card-2 w3-light-grey">
+  <h4>Paste into console 1 line at a time</h4>
+  <div class="w3-container w3-white">
+    <p>
+    <ul class="w3-ul w3-card-4" style="width:50%">
+      <li>alias "nadetoggleon" "cl_crosshairsize 255; bind g nadetoggleoff"</li>
+      <li>alias "nadetoggleoff" "cl_crosshairsize 4; bind g nadetoggleon"</li>
+    </ul>
+    </p>
+  </div>
+  <p>Note: The default key for this script is G. This can also be changed.</p>
+</div>
     </div>
+<div class="w3-content w3-section w3-third" style="max-width:500px">
+  <img class="mySlides" src="regular.jpg" style="width:100%">
+  <img class="mySlides" src="lineup.jpg" style="width:100%">
+</div>
+
+<script>
+var myIndex = 0;
+carousel();
+
+function carousel() {
+    var i;
+    var x = document.getElementsByClassName("mySlides");
+    for (i = 0; i < x.length; i++) {
+       x[i].style.display = "none";  
+    }
+    myIndex++;
+    if (myIndex > x.length) {myIndex = 1}    
+    x[myIndex-1].style.display = "block";  
+    setTimeout(carousel, 2000); // Change image every 2 seconds
+}
+</script>
+      </div>
     <div class="w3-container w3-padding-24">
       <h3><br>
       </h3>
