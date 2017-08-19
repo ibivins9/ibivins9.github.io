@@ -24,51 +24,31 @@ body {
       <h1>Grenade Line Up Crosshair</h1>
     </div>
     <hr>
-<div class="w3-row-padding">
-    <div class="w3-card-4 w3-third">
-      <header class="w3-container w3-blue">
-        <h3>Line up grenades easy!</h3>
-      </header>
-<div class="w3-panel w3-card-2 w3-light-grey">
-  <h4>Paste into console 1 line at a time</h4>
-  <div class="w3-container w3-white">
-    <p>
-    <ul class="w3-ul w3-card-4" style="width:50%">
-      <li>alias "nadetoggleon" "cl_crosshairsize 255; bind g nadetoggleoff"</li>
-      <li>alias "nadetoggleoff" "cl_crosshairsize 4; bind g nadetoggleon"</li>
-    </ul>
-    </p>
-  </div>
-  <p>Note: The default key for this script is G. This can also be changed.</p>
-</div>
-    </div>
-<div class="w3-content w3-section w3-third" style="max-width:500px">
-  <img class="mySlides" src="regular.jpg" style="width:100%">
-  <img class="mySlides" src="lineup.jpg" style="width:100%">
-</div>
-
-<script>
-var myIndex = 0;
-carousel();
-
-function carousel() {
-    var i;
-    var x = document.getElementsByClassName("mySlides");
-    for (i = 0; i < x.length; i++) {
-       x[i].style.display = "none";  
+<!-- Script for Hide/Show Functionality --> <script>
+function myFunction(id) {
+    var x = document.getElementById(id);
+    if (x.className.indexOf("w3-show") == -1) {
+        x.className += " w3-show";
+    } else { 
+        x.className = x.className.replace(" w3-show", "");
     }
-    myIndex++;
-    if (myIndex > x.length) {myIndex = 1}    
-    x[myIndex-1].style.display = "block";  
-    setTimeout(carousel, 2000); // Change image every 2 seconds
 }
 </script>
-      </div>
+<div class="w3-row">
+    <div class="w3-container w3-margin w3-third w3-rightbar">
     <div class="w3-container w3-padding-24">
+<button onclick="myFunction('bursting')" class="w3-btn w3-block w3-black w3-left-align">Understanding Bursting w/ Hiko</button>
+<div id="bursting" class="w3-container w3-hide">
+  <h4>Understanding Bursting w/ Hiko</h4>
+  <blockquote class="w3-panel w3-leftbar w3-light-grey">
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/s/4qk4k/nzho" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+  </blockquote>
+
+</div>
       <h3><br>
       </h3>
       <br>
-    </div>
+</div></div></div>
  
 
 
