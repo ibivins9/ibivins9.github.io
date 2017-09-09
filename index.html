@@ -26,6 +26,78 @@ body {
     font-family: "Ubuntu Condensed", Sans-serif;
 }
 </style>
+        <style>
+            .sricon {
+        background: url("/icon/steamrep.ico");
+        height: 16px;
+        width: 16px;
+        display: inline-flex;
+        /* Other styles here */
+    }
+  </style>
+        <style>
+            .marketicon {
+        background: url("/icon/steam.ico");
+        height: 16px;
+        width: 16px;
+        display: inline-flex;
+        /* Other styles here */
+    }
+  </style>
+       <style>
+            .xhairicon {
+        background: url("/icon/xhair.ico");
+        height: 16px;
+        width: 16px;
+        display: inline-flex;
+        /* Other styles here */
+    }
+  </style>
+       <style>
+            .yticon {
+        background: url("/icon/youtube.ico");
+        height: 16px;
+        width: 16px;
+        display: inline-flex;
+        /* Other styles here */
+    }
+  </style>
+       <style>
+            .googleicon {
+        background: url("/icon/google.ico");
+        height: 16px;
+        width: 16px;
+        display: inline-flex;
+        /* Other styles here */
+    }
+  </style>
+       <style>
+            .squadicon {
+        background: url("/icon/squad.ico");
+        height: 16px;
+        width: 16px;
+        display: inline-flex;
+        /* Other styles here */
+    }
+  </style>
+       <style>
+            .vacicon {
+        background: url("/icon/vaclist.ico");
+        height: 16px;
+        width: 16px;
+        display: inline-flex;
+        /* Other styles here */
+    }
+  </style>
+       <style>
+            .befreeicon {
+        background: url("/icon/befree.ico");
+        height: 16px;
+        width: 16px;
+        display: inline-flex;
+        /* Other styles here */
+    }
+  </style>
 <body>
 
 <nav class="w3-sidebar w3-bar-block w3-animate-left w3-card-2" style="z-index:3;width:300px;" id="mySidebar">
@@ -46,6 +118,7 @@ body {
   <a class="w3-bar-item w3-button" href="/crosshairs/">Crosshairs</a>
   <a class="w3-bar-item w3-button" href="pro-config-settings-gear.html">Pro Configs/Settings/Gear</a>
   <a class="w3-bar-item w3-button" href="fuck.html">Hall of Autism</a>
+  <button onclick="document.getElementById('id01').style.display='block'" class="w3-button w3-bar-item"></button>
 <!-- Dropdown bar code
 <div>
     <a class="w3-bar-item w3-button" onclick="myAccordion('demo')" href="javascript:void(0)">Dropdown <i class="fa fa-caret-down"></i></a>
@@ -57,7 +130,33 @@ body {
   </div> -->
 </nav>
 
-
+  <div id="id01" class="w3-modal">
+    <div class="w3-modal-content w3-card-4">
+      <header class="w3-container w3-teal w3-center"> 
+        <h2 class="w3-text-amber w3-wide w3-xlarge w3-abel" style="text-shadow:1px 1px 0 #444">Extra Links...</h2>
+      </header>
+      <div class="w3-container">
+<div class="w3-bar-block w3-light-grey w3-padding w3-half">
+  <a href="http://google.com/" class="w3-bar-item w3-button"><span class="googleicon"></span> Google</a>
+  <a href="https://csgosquad.com/" class="w3-bar-item w3-button"><span class="squadicon"></span> CSGO Squad</a>
+  <a href="https://www.vac-ban.com/" class="w3-bar-item w3-button"><span class="vacicon"></span> Vac-Ban.com</a>
+  <a href="http://sothatwemaybefree.com/" class="w3-bar-item w3-button"><span class="befreeicon"></span> SoThatWeMayBeFree</a>
+</div>
+<div class="w3-bar-block w3-light-grey w3-padding w3-half">
+  <a href="https://www.youtube.com/" class="w3-bar-item w3-button"><span class="yticon"></span> Youtube</a>
+  <a href="https://goo.gl/Varvqt" class="w3-bar-item w3-button"><span class="xhairicon"></span> Reddit Crosshair Post</a>
+  <a href="http://steamcommunity.com/market/search?appid=730" class="w3-bar-item w3-button"><span class="marketicon"></span> Steam Community Market</a>
+    <a href="https://steamrep.com/" class="w3-bar-item w3-button"><span class="sricon"></span> Steam Rep</a>
+</div>
+          
+      </div>
+      <footer class="w3-container w3-teal w3-padding w3-margin">
+        <span onclick="document.getElementById('id01').style.display='none'" 
+        class="w3-button w3-block w3-display-bottommiddle">Close</span>
+      </footer>
+    </div>
+  </div>
+    
 <div class="w3-main" style="margin-left:301px;">
 
 
